@@ -13,3 +13,7 @@ Con Git, los desarrolladores pueden crear diferentes **ramas (branches)** para t
 | Commit | 	Registro de un conjunto de cambios realizados. |
 |Branch | Rama independiente para desarrollar nuevas funciones. |
 | Merge | 	Proceso de unir los cambios de diferentes ramas. |
+
+---
+
+En conclusion, **Git es una herramienta fundamental para controlar versiones**, organizar proyectos y facilitar la colaboracion entre desarrolladores. Su uso permite trabajar de manera mas segura y ordenada, especialmente en proyectos realizados por varias personas.

@@ -41,3 +41,9 @@ Las principales características de las buenas prácticas en Git son:
 - **Mantenimiento:** facilita la modificación y actualización del proyecto.
 
 ---
+## 5. Ejemplos
+
+### Crear una rama
+
+```bash
+git checkout -b feature/login

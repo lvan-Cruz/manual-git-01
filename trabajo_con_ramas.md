@@ -35,3 +35,5 @@ Un ejemplo de trabajo en ramas en Git sería el desarrollo de una página web po
 ## Conclusion sobre el trabajo en ramas
 
 El trabajo en ramas permite organizar mejor un proyecto, trabajar en equipo y realizar cambios sin afectar el código principal. Es una herramienta fundamental de Git para desarrollar de manera segura, ordenada y eficiente.
+
+awashmine washminene awashmine ne washminene * emotiza insana*

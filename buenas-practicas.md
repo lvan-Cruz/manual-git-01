@@ -43,7 +43,24 @@ Las principales características de las buenas prácticas en Git son:
 ---
 ## 5. Ejemplos
 
-### Crear una rama
+### Proceso
 
-```bash
-git checkout -b feature/login
+```text
+main
+  ↓
+Crear rama feature/login
+  ↓
+Realizar cambios
+  ↓
+Revisar código
+  ↓
+Crear commit
+  ↓
+Subir cambios a GitHub
+  ↓
+Crear Pull Request
+  ↓
+Revisión del código
+  ↓
+Merge a main
+

@@ -1,0 +1,2 @@
+# Introducción a Git #
+**Git** es un sistema de control de versiones que permite registrar, organizar y gestionar los cambios realizados en un proyecto. Es muy utilizado en el desarrollo de software porque facilita el trabajo en equipo y permite recuperar versiones anteriores de los archivos.

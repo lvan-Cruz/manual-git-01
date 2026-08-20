@@ -103,3 +103,10 @@ Ejemplo:
 
 ```bash
 git push origin main
+
+
+## 25. Conclusión
+
+Git es una herramienta fundamental para el desarrollo de software porque permite controlar las diferentes versiones de un proyecto y organizar el trabajo de los desarrolladores.
+
+Con conceptos como **repositorio, commit, branch, merge, push, pull y staging area**, es posible administrar proyectos de manera más segura, organizada y eficiente.

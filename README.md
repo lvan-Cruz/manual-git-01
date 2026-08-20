@@ -4,3 +4,4 @@ Trabajo grupal
 
 
 abraham quiroz
+Ivan Cruz

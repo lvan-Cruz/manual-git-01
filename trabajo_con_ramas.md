@@ -27,3 +27,7 @@ Esto permite que varias personas trabajen al mismo tiempo en diferentes partes d
 * Trabajo colaborativo: varias personas pueden desarrollar simultáneamente.
 * Revisión del código: los cambios pueden revisarse antes de incorporarlos al proyecto.
 * Organización: cada rama puede representar una función, corrección o experimento.
+
+## Ejemplo de el trabajo con ramas
+
+Un ejemplo de trabajo en ramas en Git sería el desarrollo de una página web por parte de un equipo de programadores. Primero, todos parten de una rama principal llamada main, que contiene el código estable del proyecto. Luego, un programador crea una rama llamada feature-login para desarrollar el sistema de inicio de sesión, mientras otro crea una rama llamada feature-pagos para trabajar en el sistema de pagos. Cada uno realiza sus cambios y los guarda mediante commits sin afectar la rama principal. Cuando terminan sus tareas, revisan y prueban el código y, si todo funciona correctamente, fusionan sus ramas con main mediante un proceso llamado merge. De esta manera, los integrantes del equipo pueden trabajar al mismo tiempo en diferentes funciones del proyecto de forma organizada y segura.

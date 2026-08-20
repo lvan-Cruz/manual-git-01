@@ -15,10 +15,19 @@
 **¿Para qué sirve?**  
 -Permite compartir código, trabajar en equipo, revisar cambios y administrar proyectos.
 
-## 3. Repositorio
+# 3. Repositorio
 
 **Definición:**  
 -Un repositorio es el espacio donde se almacena un proyecto junto con sus archivos y el historial de cambios realizado con Git.
 
 **Ejemplo:**  
 -Un proyecto de una página web puede tener un repositorio que contiene archivos HTML, CSS y JavaScript.
+- 4. Commit
+
+**Definición:**  
+-Un commit es un registro de los cambios realizados en un proyecto en un momento determinado.
+
+**Ejemplo:**
+
+```bash
+git commit -m "Agrega página principal"

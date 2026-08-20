@@ -2,9 +2,9 @@
 
 ## 1. ¿Qué es Git?
 
-Git es un sistema de control de versiones distribuido que permite registrar, administrar y controlar los cambios realizados en los archivos de un proyecto.
+**Git es un sistema de control de versiones distribuido que permite registrar, administrar y controlar los cambios realizados en los archivos de un proyecto.**
 
-Es una herramienta muy utilizada en el desarrollo de software porque permite trabajar de manera organizada y facilita la colaboración entre varios desarrolladores.
+**Es una herramienta muy utilizada en el desarrollo de software porque permite trabajar de manera organizada y facilita la colaboración entre varios desarrolladores.**
 
 ---
 

@@ -43,3 +43,54 @@ Es el sistema de control de versiones que se instala y utiliza en el computador.
 ### GitHub
 
 Es una plataforma en línea que permite almacenar repositorios Git y colaborar con otros desarrolladores.
+
+
+## 7. Commit
+
+Un **commit** es un registro que guarda los cambios realizados en el proyecto.
+
+Ejemplo:
+
+```bash
+git commit -m "Agregada pantalla de inicio"
+```
+
+Es recomendable utilizar mensajes claros para identificar qué cambios se realizaron.
+
+---
+
+## 8. Branch o Rama
+
+Una rama permite trabajar en una versión independiente del proyecto sin afectar directamente la rama principal.
+
+Por ejemplo:
+
+```bash
+git branch nueva-funcionalidad
+```
+
+Para crear una rama y cambiarse a ella:
+
+```bash
+git checkout -b nueva-funcionalidad
+```
+
+También se puede utilizar:
+
+```bash
+git switch -c nueva-funcionalidad
+```
+
+---
+
+## 9. Main
+
+`main` normalmente es la rama principal de un proyecto.
+
+En ella se suele mantener una versión estable del código.
+
+Para cambiar a la rama principal:
+
+```bash
+git switch main
+```

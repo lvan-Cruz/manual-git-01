@@ -94,3 +94,12 @@ Para cambiar a la rama principal:
 ```bash
 git switch main
 ```
+
+## 12. Push
+
+`git push` permite enviar los commits realizados en el repositorio local hacia un repositorio remoto.
+
+Ejemplo:
+
+```bash
+git push origin main

@@ -19,3 +19,27 @@ Git sirve principalmente para:
 * Crear ramas para desarrollar nuevas funcionalidades.
 * Unir los cambios realizados por diferentes personas.
 * Mantener un historial del proyecto.
+
+
+## 3. Repositorio
+
+Un repositorio es el espacio donde Git almacena los archivos del proyecto y el historial de cambios realizados.
+
+Puede ser:
+
+* **Repositorio local:** se encuentra en el computador del desarrollador.
+* **Repositorio remoto:** se encuentra en una plataforma como GitHub, GitLab o Bitbucket.
+
+---
+
+## 4. Git y GitHub
+
+Aunque están relacionados, Git y GitHub no son lo mismo.
+
+### Git
+
+Es el sistema de control de versiones que se instala y utiliza en el computador.
+
+### GitHub
+
+Es una plataforma en línea que permite almacenar repositorios Git y colaborar con otros desarrolladores.

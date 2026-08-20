@@ -31,3 +31,6 @@
 
 ```bash
 git commit -m "Agrega página principal"
+
+# Conclusión 
+Git es una herramienta fundamental para controlar y organizar los cambios realizados en un proyecto. Sus diferentes conceptos, como los commits, ramas, repositorios y comandos, permiten trabajar de una manera más ordenada y segura. Además, GitHub facilita el trabajo colaborativo al permitir compartir proyectos y trabajar con otras personas.
